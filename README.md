@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @sc-delll
+- 👋 Hi, I’m Jack
 - 👀 I’m interested in ...html, java ,c++
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...jtelliott110@gmail.com /
 
 <!---
